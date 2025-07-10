@@ -1,5 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shravan Bobade
 ======================================================================================================================================
+<p align="center">
+  <a href="https://yourusername.github.io/t-rex-runner" target="_blank">
+    <img src="https://raw.githubusercontent.com/Jayshah6699/dino-game-banner/main/dino-banner.gif" alt="Play Dino Game" />
+  </a>
+</p>
+
 
 Full Stack Developer
 --------------------
@@ -7,9 +13,8 @@ Full Stack Developer
 I’m a passionate Full Stack Developer with expertise in crafting dynamic and scalable web applications. Skilled in both frontend and backend technologies, including React.js, Node.js, Express, and MongoDB, I enjoy solving complex problems, collaborating on innovative projects, and continuously learning new technologies to deliver impactful solutions. Feel free to explore my work, and don’t hesitate to connect—let’s build something amazing together!
 
 * 🌍  I'm based in Pune, India
-* 🖥️  See my portfolio at [MyPortfolio](http://myPortfolio.com)
+* 🖥️  See my portfolio at [MyPortfolio](http://shravandev.com)
 * ✉️  You can contact me at [shravan.bobade.tech@gmail.com](mailto:shravan.bobade.tech@gmail.com)
-* 🧠  I'm learning Java Springboot
 * 🤝  I'm open to collaborating on innovative ideas!
 * ⚡  I'm secretly too lazy to update README files... 🤫 But hey, let’s keep that between us! 😅
 
