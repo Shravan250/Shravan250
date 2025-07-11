@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shravan Bobade
 ======================================================================================================================================
 <p align="center">
-  <a href="https://dinosaur-games.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/Jayshah6699/dino-game-banner/main/dino-banner.gif" alt="Play Dino Game" />
+  <a href="https://shravan250.github.io/t-rex-runner/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Jayshah6699/dino-game-banner/main/dino-banner.gif" alt="Click to play the Dino Game!" />
   </a>
 </p>
+
+<div align="center">
+  <iframe src="https://shravan250.github.io/t-rex-runner/" width="820" height="300" frameborder="0"></iframe>
+</div>
 
 
 Full Stack Developer
