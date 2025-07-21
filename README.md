@@ -2,7 +2,7 @@
 
 <h5>When Wi-Fi dies, Dino rises 🦖</h5>
 > ⚡ Bored? Tap the Dino to play! <br/>
-[![Play Dino](dinosaur.gif)](https://chrome-dino-game.github.io/)
+[![Play Dino](https://github.com/Shravan250/Shravan250/blob/main/dinosaur.gif?raw=true)](https://chrome-dino-game.github.io/)
 
 <p>Welcome to my page! </br></br> I'm Shravan, Fullstack developer from <img alt="India" src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Pune, India</b></p>
 <h3>Things I code with</h3>
