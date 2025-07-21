@@ -1,8 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I've got my eyes on you.</h1>
 
 <h5>When Wi-Fi dies, Dino rises 🦖</h5>
-> ⚡ Bored? Tap the Dino to play! <br/>
-[![Play Dino](https://github.com/Shravan250/Shravan250/blob/main/dinosaur.gif?raw=true)](https://chrome-dino-game.github.io/)
+
+<a href="https://chrome-dino-game.github.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/Shravan250/Shravan250/blob/main/dinosaur.gif?raw=true" alt="Play Dino" style="width:100%;height: 200px;">
+</a>
+
+
+<br/>
+<br/>
 
 <p>Welcome to my page! </br></br> I'm Shravan, Fullstack developer from <img alt="India" src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Pune, India</b></p>
 <h3>Things I code with</h3>
