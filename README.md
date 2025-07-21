@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I've got my eyes on you.</h1>
 
 <h5>When Wi-Fi dies, Dino rises 🦖</h5>
-> ⚡ Bored? Tap the Dino to play!  
-[![Play Dino](https://your-gif-url.gif)](https://your-dino-game-link.com)
+> ⚡ Bored? Tap the Dino to play! <br/>
+[![Play Dino](dinosaur.gif)](https://chrome-dino-game.github.io/)
 
 <p>Welcome to my page! </br></br> I'm Shravan, Fullstack developer from <img alt="India" src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Pune, India</b></p>
 <h3>Things I code with</h3>
